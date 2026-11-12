@@ -1,0 +1,29 @@
+
+/* REMMY PORTFOLIO - GLOBAL STYLES */
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 90px;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+::selection {
+  background: #E63946;
+  color: #FFFFFF;
+}
